@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+// figma design link of free money transfer app ui
+https://www.figma.com/file/u1i48j3VGOxSeqioKCEAuy/Free-Money-transfer-app-Ui-Kit-(Community)?node-id=2%3A2&t=3ppDV5AbEYXDaFOz-0
